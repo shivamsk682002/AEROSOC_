@@ -14,6 +14,7 @@ import shantanu from "./gallery/shantanu.jpg"
 import amartya from "./gallery/amartya.jpg"
 import anurag from "./gallery/anurag.jpg"
 import priyank from "./gallery/priyank.jpg"
+import alia from "./gallery/alia.jpg"
 
 
 function Team(){
@@ -197,6 +198,21 @@ function Team(){
            </div>
            <div className="w-[340px] shadow-2xl m-auto h-[380px] bg-sky-700 rounded-3xl flex-col justify-between items-center text-center space-y-3 hover:scale-105 ">
                 <div className="flex justify-center items-center text-center pt-2">
+                 <img className=" rounded-full h-[200px] flex justify-center items-center text-center" src={alia}/>
+                 </div>
+                 <div className="text-slate-900 font-bold text-2xl">Alia Ehsan</div>
+                 <div>Social & Sponsership Head</div>
+                 <div>shivamsk682002@gmail.com</div>
+                 <div>
+                 <ul className="flex justify-around ">
+                <li ><a href="https://www.instagram.com/alia._.ehsan?igsh=MWxiejJnZHY4dWQxMA== "><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
+               <li><a href="https://www.linkedin.com/in/aliah-ehsan-211602277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+"><FontAwesomeIcon className="size-6" icon={faLinkedin} /></a></li>
+               </ul>
+                 </div>
+           </div>
+           <div className="w-[340px] shadow-2xl m-auto h-[380px] bg-sky-700 rounded-3xl flex-col justify-between items-center text-center space-y-3 hover:scale-105 ">
+                <div className="flex justify-center items-center text-center pt-2">
                  <img className=" rounded-full h-[200px] flex justify-center items-center text-center" src={profile}/>
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Shivam Kumar</div>
@@ -209,6 +225,7 @@ function Team(){
                </ul>
                  </div>
            </div>
+           
             </div>
         </div>
         </>
