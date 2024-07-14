@@ -24,7 +24,7 @@ const ContactUs = () => {
   };
 
   return (
-    <form  ref={form} onSubmit={sendEmail} className='w-[85%] m-auto shadow-2xl p-8 bg-slate-700 rounded-3xl'>
+    <form  ref={form} onSubmit={sendEmail} className='w-[85%] m-auto shadow-2xl p-8 bg-sky-700 rounded-3xl'>
     <div id='form' className='md:flex justify-cente  w-[100%] m-auto'>
     <div id='left' className='w-[100%] flex-row justify-center pr-8'>
     <div>

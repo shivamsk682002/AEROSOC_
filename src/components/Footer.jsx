@@ -44,7 +44,7 @@ function Footer(){
       </div>
       
       <div className='w-[30%] '> <p className=' text-blue-600 underline'>Call Us</p>
-        <p>7004806766</p>
+        <p>9693052886</p>
       </div>
     </div>
     <div id='email' className='md:w-[30%] w-[80%] flex md:justify-center md:items-center mx-auto md:mx-0 mt-[2vh] md:mt-[0vh]'>
@@ -67,7 +67,7 @@ function Footer(){
       <ul className="flex justify-around">
         <a href="https://www.instagram.com/aerosoc_bitmesra/"><li className=" text-3xl"><FontAwesomeIcon icon={faInstagram} /></li></a>
         <a href="https://www.linkedin.com/company/aerospace-society-bit-mesra/"><li className=" text-3xl"><FontAwesomeIcon icon={faLinkedin} /></li></a>
-        <li className=" text-3xl"><FontAwesomeIcon icon={faFacebook} /></li>
+        <a href="https://m.facebook.com/aerosoc.bitmesra/"><li className=" text-3xl"><FontAwesomeIcon icon={faFacebook} /></li></a>
       </ul>
     </div>
     </div>

@@ -10,6 +10,9 @@ import photo8 from "./gallery/photo8.jpg"
 import photo9 from "./gallery/photo9.jpg"
 import photo10 from "./gallery/photo10.jpg"
 import photo11 from "./gallery/photo11.jpg"
+import photo13 from "./gallery/photo13.jpg"
+import photo14 from "./gallery/photo14.jpg"
+import photo15 from "./gallery/photo15.jpg"
 function Gallery(){
     return (
         <>
@@ -32,7 +35,10 @@ function Gallery(){
                     <img className=" rounded-2xl hover:scale-105" src={photo8}></img>
                     <img className=" rounded-2xl hover:scale-105" src={photo9}></img>
                     <img className=" rounded-2xl hover:scale-105" src={photo10}></img>
-                    <img className=" rounded-2xl hover:scale-105 "  src={photo11}></img>
+                   
+                    <img className=" rounded-2xl hover:scale-105 "  src={photo13}></img>
+                    <img className=" rounded-2xl hover:scale-105 "  src={photo14}></img>
+                    <img className=" rounded-2xl hover:scale-105 "  src={photo15}></img>
                 </div>
             </div>
         </div>
