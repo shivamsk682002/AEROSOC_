@@ -44,7 +44,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Priyanshu Kumar</div>
                  <div>President</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>aerosoc@bitmesra.ac.in</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/priyanshu_kumar_pk?igsh=MWs0ajhrNHo4NHhsbA=="><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -58,7 +58,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Vikram Verma</div>
                  <div>Vice President</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>aerosoc@bitmesra.ac.in</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/_vikram.verma?igsh=MXF6cjV5MzdxYzMzbA=="><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -72,7 +72,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Deewakar Prasad</div>
                  <div>Vice President</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>aerosoc@bitmesra.ac.in</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/deewakar?igsh=MzRlODBiNWFlZA=="><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -86,7 +86,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Anant Ranjan</div>
                  <div>Aerodynamics and Aircrafts Head</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>aerosoc@bitmesra.ac.in</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/s__h__i__v_a__m/"><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -100,7 +100,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Kshitiz Jha</div>
                  <div>Avionics Head</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>aerosoc@bitmesra.ac.in</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/s__h__i__v_a__m/"><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -118,7 +118,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Anurag Sinha</div>
                  <div>General Secretary</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>anuragsinha2503@gmail.com</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href=""><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -132,7 +132,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Shristy Sonal</div>
                  <div>Joint Secretary</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>shristysonal4@gmail.com</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/shristysonal?igsh=MTgwcDd5MDUwNGR5eA%3D%3D&utm_source=qr"><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -146,7 +146,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Shantanu</div>
                  <div>Head Treasurer</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>shaan123shantanu@gmail.com</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/_shantanu2003?igsh=ZzFnYW1qdHp2eXUw"><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -160,7 +160,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Amartya</div>
                  <div>Joint Treasurer</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>amartya2608@gmail.com</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/amartyaabhyankar?igsh=MW9leXVieTdrZnEyMg=="><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -174,7 +174,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Sahil</div>
                  <div>Joint Treasurer</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>btech10436.22@bitmesra.ac.in</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/notreallysahil?igsh=MWRyaTM3d2NveDBkcQ=="><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -188,7 +188,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Shashank Kumar</div>
                  <div>Manufacturing Head</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>shashankkrjsr@gmail.com</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/shaw_shank.24?igsh=YTVjdTlhcDE1Mm9i"><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
@@ -202,7 +202,7 @@ function Team(){
                  </div>
                  <div className="text-slate-900 font-bold text-2xl">Alia Ehsan</div>
                  <div>Social & Sponsership Head</div>
-                 <div>shivamsk682002@gmail.com</div>
+                 <div>aliahe610@gmail.com</div>
                  <div>
                  <ul className="flex justify-around ">
                 <li ><a href="https://www.instagram.com/alia._.ehsan?igsh=MWxiejJnZHY4dWQxMA== "><FontAwesomeIcon className="size-6" icon={faInstagram} /></a></li>
