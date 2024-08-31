@@ -3,20 +3,21 @@ import React from "react";
 import ach1 from "./gallery/ach1.jpg"
 import ach2 from "./gallery/ach2.jpg"
 import ach3 from "./gallery/ach3.jpg"
+import photo from  "./gallery/4.jpg"
 
 
 function About(){
     return (
         <>
-        <div id="container" className=" bg-[url('./components/gallery/photo6.jpg')] max-w-full h-[500px] text-white text-lg bg-white  bg-cover bg-center bg-sky-500 w-full md:min-h-[calc(100vh)] md:bg-[url('./components/gallery/photo12.jpg')]" >
-            <div className="flex justify-center text-center items-center text-[5vh] md:text-[10vh] pt-[20vh] text-slate-900 font-bold " style={{fontFamily:'Cairo Play'}}>ABOUT AEROSOC</div>          
+        <div id="container" className=" bg-[url('./components/gallery/3.jpg')] max-w-full h-[500px] text-white text-lg bg-white  bg-cover bg-center bg-sky-500 w-full md:min-h-[calc(100vh)] md:bg-[url('./components/gallery/3.jpg')]" >
+            <div className="flex justify-center text-center items-center text-[5vh] md:text-[10vh] pt-[20vh] text-white- font-bold " style={{fontFamily:'Cairo Play'}}>ABOUT AEROSOC ...</div>          
         </div>
         <div className="bg-sky-600 text-white">
         <div className="pt-10">
            <div id='contents' className='flex md:flex justify-center items-center  md:min-h-[calc(90vh-70px)] shadow-2xl shadow-slate-900 w-[90%] m-auto bg-sky-700 rounded-2xl '>
            
            <div className='md:w-[90%] flex-row md:space-y-[10vh] '> 
-           <div className="w-[90%] m-auto flex justify-center text-[50px] pt-[10px] text-slate-900 font-semibold  md:text-[10vh] "  style={{fontFamily:'Cairo Play'}}>ACIEVEMENTS -</div>
+           <div className="w-[90%] m-auto flex justify-center text-[50px] pt-[10px] text-slate-900 font-semibold  md:text-[10vh] "  style={{fontFamily:'Cairo Play'}}>ACHIEVEMENTS</div>
            <div id='contents' className='flex-row md:flex justify-center items-center  md:min-h-[calc(90vh-70px)]  shadow-slate-900  m-auto pt-8'>
            <img className='   flex justify-center items-center md:hidden w-[60%] rounded-2xl hover:scale-105 m-auto  shadow-2xl shadow-cyan-300'src={ach1} alt=""/>
            <img className='hidden md:block w-[33%] m-auto rounded-2xl hover:scale-105  shadow-xl shadow-black'src={ach1} alt=""/>
@@ -57,7 +58,7 @@ function About(){
            
            <div className='md:w-[90%] flex-row md:space-y-[10vh] '> 
            <div>
-           <div className="w-[90%] m-auto flex text-center justify-center text-[50px] pt-[10px] text-slate-900 font-semibold"  style={{fontFamily:'Cairo Play'}}>HISTORY -</div>
+           <div className="w-[90%] m-auto flex text-center justify-center text-[50px] pt-[10px] text-slate-900 font-semibold"  style={{fontFamily:'Cairo Play'}}>HISTORY</div>
              <p className='hidden md:block pt-7 lg-pt-0 flex justify-center md:w-[100%] items-center text-justify m-auto md:m-auto w-[80%] text-2xl pb-8'>The Aerospace Society at BIT Mesra, has a rich history that aligns with the institution's commitment to fostering innovation and excellence in the field of aerospace engineering. Here's a detailed history:
 
 Establishment: The Aerospace Society at BIT Mesra was founded with the aim of providing a platform for students interested in aerospace and aeronautical engineering. The society's inception was driven by the increasing interest among students in aerospace technology and the need for a dedicated forum to nurture this interest.

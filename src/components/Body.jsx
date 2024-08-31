@@ -75,7 +75,7 @@ function Body(){
          
            <div id='events' className='bg-white bg-gradient-to-r from-slate-900 to-slate-800 ... rounded-3xl w-[99%] m-auto'>
          <div className=' text-5xl flex justify-center md:text-[10vh] h-[75px] padding  font-semibold items-center md:pt-[50px] '>
-           <div className=' padding pr-4  '>Upcoming</div>
+           <div className=' padding pr-4  '>Latest</div>
            <div className='text-sky-400  underline'> Event</div>
            
            </div>
@@ -100,7 +100,7 @@ function Body(){
               aerial robotics, or related fields.</p>
               
               <div className='flex flex-row justify-center m-auto pb-10 pt-10 md:pt-6'>
-           <NavLink to="https://unstop.com/p/cfd-symposium-birla-institute-of-technology-mesra-1069516" ><button className="bg-blue-600 text-white font-bold py-2 px-4 rounded-full text hover:text-xl ">Register</button></NavLink>
+           
            </div>
              </div>
            </div>

@@ -13,6 +13,10 @@ import photo11 from "./gallery/photo11.jpg"
 import photo13 from "./gallery/photo13.jpg"
 import photo14 from "./gallery/photo14.jpg"
 import photo15 from "./gallery/photo15.jpg"
+import photo16 from "./gallery/1.jpg"
+import photo17 from "./gallery/2.jpg"
+import photo18 from "./gallery/3.jpg"
+import photo19 from "./gallery/4.jpg"
 function Gallery(){
     return (
         <>
@@ -25,6 +29,10 @@ function Gallery(){
             </div>
             <div class='p-5 md:p-10'>
                 <div className=" columns-1 gap-5 lg:gap-8 sm:columns-2 lg:columns-3 xl:columns-4 [&>img:not(:first-child)]:mt-5 lg:[&>img:not(:first-child)]:mt-8">
+                <img className=" rounded-2xl hover:scale-105" src={photo19}></img>
+                <img className=" rounded-2xl hover:scale-105" src={photo18}></img>
+                <img className=" rounded-2xl hover:scale-105" src={photo17}></img>
+                <img className=" rounded-2xl hover:scale-105" src={photo16}></img>
                     <img className=" rounded-2xl hover:scale-105" src={photo1}></img>
                     <img className=" rounded-2xl  hover:scale-105" src={photo2}></img>
                     <img className=" rounded-2xl hover:scale-105" src={photo3}></img>
