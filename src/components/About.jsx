@@ -23,7 +23,7 @@ function About(){
            <img className='hidden md:block w-[33%] m-auto rounded-2xl hover:scale-105  shadow-xl shadow-black'src={ach1} alt=""/>
            <div className='md:w-2/4 flex-row md:space-y-[10vh] '> 
            <div>
-            <div className="flex justify-center text-center text-[2vh] md:text-[6vh] font-semibold text-slate-900">Best Aerodynamic Analysis in ADC 2022</div>
+            <div className="flex justify-center text-center text-[2vh] md:text-[6vh] font-semibold text-slate-900">Best Aerodynamic Analysis in ADC 2022 </div>
             
              </div>
            </div>
@@ -61,7 +61,7 @@ function About(){
            <div className="w-[90%] m-auto flex text-center justify-center text-[50px] pt-[10px] text-slate-900 font-semibold"  style={{fontFamily:'Cairo Play'}}>HISTORY</div>
              <p className='hidden md:block pt-7 lg-pt-0 flex justify-center md:w-[100%] items-center text-justify m-auto md:m-auto w-[80%] text-2xl pb-8'>The Aerospace Society at BIT Mesra, has a rich history that aligns with the institution's commitment to fostering innovation and excellence in the field of aerospace engineering. Here's a detailed history:
 
-Establishment: The Aerospace Society at BIT Mesra was founded with the aim of providing a platform for students interested in aerospace and aeronautical engineering. The society's inception was driven by the increasing interest among students in aerospace technology and the need for a dedicated forum to nurture this interest.
+Establishment: The Aerospace Society at BIT Mesra was founded  the aim of providing a platform for students interested in aerospace and aeronautical engineering. The society's inception was driven by the increasing interest among students in aerospace technology and the need for a dedicated forum to nurture this interest.
 <br></br>
 <br></br>
 Competitions and Conferences: The Aerospace Society at BIT Mesra has a history of actively participating in national. Teams from the society have competed in events such as the Aero Design Challenge, SAE Aero Design Competition. These competitions have provided a platform for students to showcase their skills and innovations.
